@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning React.js and Node.js
+- 🌱 I’m a MERN stack developer
 - ⚡️ Fun fact: I write codes with no bugs (hehe😄)
 - 📫 You can reach at amakaoforkaja@gmail.com
 
